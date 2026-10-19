@@ -1,0 +1,19 @@
+{
+  "name": "Kelime Kahramanı",
+  "short_name": "Kelime",
+  "description": "Çocuklar için bilimsel temelli İngilizce kelime öğrenme uygulaması — aralıklı tekrar, çizgi roman ve hareket destekli.",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFDF6",
+  "theme_color": "#FFC93C",
+  "categories": ["education", "kids"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
